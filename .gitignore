@@ -1,0 +1,5 @@
+events
+layers/**/.class
+package-lock.json
+node_modules/*
+!node_modules/.gitkeep
